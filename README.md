@@ -1,3 +1,9 @@
+Using SandBox
+=============
+- install database from included mapper.sql
+- experiment with entities in app/model and presenters
+
+
 Simple ORM for Nette Framework
 ==============================
 
