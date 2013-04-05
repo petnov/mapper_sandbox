@@ -17,8 +17,8 @@ common:
 
 		database:
 			dsn: 'mysql:host=localhost;dbname=mapper'
-			user: root
-			password: stoupa
+			user: 
+			password: 
 
 		session:
 			expiration: 14 days
